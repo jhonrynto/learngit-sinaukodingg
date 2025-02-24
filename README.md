@@ -1,2 +1,3 @@
 # learngit-sinaukoding
-Faizul fuadi
+Faizul Fuadi
+Status = Online
