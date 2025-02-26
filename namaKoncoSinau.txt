@@ -4,6 +4,9 @@ Asal: Sumbawa
 Nama: John Doe
 Asal: America
 
+Nama : David
+Asal : Jakarta
+
 Nama: Ratskull
 Asal: Antartika
 
