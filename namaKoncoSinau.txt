@@ -4,5 +4,8 @@ Asal: Sumbawa
 Nama: John Doe
 Asal: America
 
+Nama: Ratskull
+Asal: Antartika
+
 Nama : Dendy
 Asal : Bandung
