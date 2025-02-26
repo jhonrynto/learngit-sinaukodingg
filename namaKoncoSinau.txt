@@ -1,2 +1,5 @@
 Nama: Faizul Fuadi
 Asal: Sumbawa
+
+Nama: John Doe
+Asal: America
